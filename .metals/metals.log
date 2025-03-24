@@ -122,3 +122,59 @@ Mar. 24, 2025 8:40:08 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint no
 WARNING: Unsupported notification method: metals/windowStateDidChange
 Mar. 24, 2025 8:40:26 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 8:41:24 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 8:44:12 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 8:44:17 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 8:50:29 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 8:50:30 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 8:51:24 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 8:51:42 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 8:52:49 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 8:52:50 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 08:52:57 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 08:52:57 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 08:52:57 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar. 24, 2025 8:53:13 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 8:53:50 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 08:53:50 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar. 24, 2025 8:54:18 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 8:55:01 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 08:55:20 WARN  no build target for: /Users/samiaishaque/hello-world-cats-gitr8/src/main/g8/Hello.scala[0m
+2025.03.24 08:55:20 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/src/main/g8/src/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 08:55:20 WARN  no build target for: /Users/samiaishaque/hello-world-cats-gitr8/src/main/g8/src/Hello.scala[0m
+2025.03.24 08:55:20 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/src/main/g8/src/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 08:55:20 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar. 24, 2025 8:55:24 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 8:55:32 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 08:55:45 WARN  no build target for: /Users/samiaishaque/hello-world-cats-gitr8/src/main/g8/src/Hello.scala[0m
+2025.03.24 08:55:45 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/src/main/g8/src/main/scala/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 08:55:45 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 08:55:45 WARN  no build target for: /Users/samiaishaque/hello-world-cats-gitr8/src/main/g8/src/main/scala/Hello.scala[0m
+2025.03.24 08:55:45 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/src/main/g8/src/main/scala/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 08:55:45 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 08:56:43 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 08:56:43 INFO  Detected new build tool in /Users/samiaishaque/hello-world-cats-gitr8[0m
+2025.03.24 08:56:43 WARN  no build target for: /Users/samiaishaque/hello-world-cats-gitr8/build.sbt[0m
+2025.03.24 08:56:43 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 08:56:43 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 08:56:43 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 08:56:43 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 08:56:50 INFO  Shutting down server[0m
+2025.03.24 08:56:50 INFO  shutting down Metals[0m
+2025.03.24 08:56:50 INFO  Shut down connection with build server.[0m
+2025.03.24 08:56:50 INFO  Exiting server[0m
