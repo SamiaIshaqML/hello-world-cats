@@ -1,0 +1,86 @@
+2025.03.24 07:55:25 INFO  Started: Metals version 1.5.1 in folders '/Users/samiaishaque/hello-world-cats-gitr8' for client Cursor 1.96.2.[0m
+2025.03.24 07:55:26 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:55:26 INFO  Attempting to connect to the build server...[0m
+2025.03.24 07:55:26 INFO  Found a Bloop server running[0m
+2025.03.24 07:55:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/samiaishaque/hello-world-cats-gitr8/.metals/bsp.trace.json or /Users/samiaishaque/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.03.24 07:55:26 INFO  time: Connected to build server in 0.24s[0m
+2025.03.24 07:55:26 INFO  Connected to Build server: Bloop v2.0.8[0m
+Mar. 24, 2025 7:55:26 A.M. scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /Users/samiaishaque/hello-world-cats-gitr8/.metals/.reports/bloop/2025-03-24/r_Empty build targets...._07-55-26-857.md)
+Mar. 24, 2025 7:55:26 A.M. scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /Users/samiaishaque/hello-world-cats-gitr8/.metals/.reports/bloop/2025-03-24/r_Empty build targets...._07-55-26-857.md)
+Mar. 24, 2025 7:55:26 A.M. scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /Users/samiaishaque/hello-world-cats-gitr8/.metals/.reports/bloop/2025-03-24/r_Empty build targets...._07-55-26-857.md)
+Mar. 24, 2025 7:55:26 A.M. scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /Users/samiaishaque/hello-world-cats-gitr8/.metals/.reports/bloop/2025-03-24/r_Empty build targets...._07-55-26-857.md)
+Mar. 24, 2025 7:55:26 A.M. scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /Users/samiaishaque/hello-world-cats-gitr8/.metals/.reports/bloop/2025-03-24/r_Empty build targets...._07-55-26-857.md)
+2025.03.24 07:55:27 INFO  running doctor check[0m
+2025.03.24 07:55:27 INFO  java targets: [0m
+2025.03.24 07:55:27 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:55:28 INFO  time: indexed workspace in 2.14s[0m
+2025.03.24 07:55:28 WARN  no build target for: /Users/samiaishaque/hello-world-cats-gitr8/build.sbt[0m
+2025.03.24 07:55:29 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:55:29 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar. 24, 2025 7:55:29 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 7:55:30 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 7:55:31 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 7:55:39 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 07:55:43 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:55:44 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:55:45 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:55:45 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:55:45 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:55:45 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:55:45 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:55:46 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar. 24, 2025 7:55:48 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 7:56:37 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 7:56:41 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 7:56:45 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 07:56:45 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar. 24, 2025 7:56:51 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar. 24, 2025 7:56:54 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 07:56:58 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:56:58 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:57:03 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:57:07 WARN  no build target for: /Users/samiaishaque/hello-world-cats-gitr8/build.sbt[0m
+2025.03.24 07:57:07 INFO  Detected new build tool in /Users/samiaishaque/hello-world-cats-gitr8[0m
+2025.03.24 07:57:07 INFO  Disconnecting from Bloop session...[0m
+2025.03.24 07:57:07 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:57:07 INFO  Shut down connection with build server.[0m
+2025.03.24 07:57:07 INFO  Attempting to connect to the build server...[0m
+2025.03.24 07:57:07 INFO  Found a Bloop server running[0m
+2025.03.24 07:57:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/samiaishaque/hello-world-cats-gitr8/.metals/bsp.trace.json or /Users/samiaishaque/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.03.24 07:57:07 INFO  time: Connected to build server in 0.12s[0m
+2025.03.24 07:57:07 INFO  Connected to Build server: Bloop v2.0.8[0m
+Mar. 24, 2025 7:57:07 A.M. scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /Users/samiaishaque/hello-world-cats-gitr8/.metals/.reports/bloop/2025-03-24/r_Empty build targets...._07-55-26-857.md)
+Mar. 24, 2025 7:57:07 A.M. scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /Users/samiaishaque/hello-world-cats-gitr8/.metals/.reports/bloop/2025-03-24/r_Empty build targets...._07-55-26-857.md)
+Mar. 24, 2025 7:57:07 A.M. scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /Users/samiaishaque/hello-world-cats-gitr8/.metals/.reports/bloop/2025-03-24/r_Empty build targets...._07-55-26-857.md)
+Mar. 24, 2025 7:57:07 A.M. scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /Users/samiaishaque/hello-world-cats-gitr8/.metals/.reports/bloop/2025-03-24/r_Empty build targets...._07-55-26-857.md)
+Mar. 24, 2025 7:57:07 A.M. scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: Empty build targets. Expected at least one build target identifier. (full report at: /Users/samiaishaque/hello-world-cats-gitr8/.metals/.reports/bloop/2025-03-24/r_Empty build targets...._07-55-26-857.md)
+2025.03.24 07:57:07 INFO  running doctor check[0m
+2025.03.24 07:57:07 INFO  java targets: [0m
+2025.03.24 07:57:07 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:57:08 INFO  time: indexed workspace in 1.02s[0m
+2025.03.24 07:57:08 WARN  no build target for: /Users/samiaishaque/hello-world-cats-gitr8/build.sbt[0m
+2025.03.24 07:57:08 WARN  no build target for: /Users/samiaishaque/hello-world-cats-gitr8/src/main/scala/example/Hello.scala[0m
+2025.03.24 07:57:08 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.24 07:57:08 INFO  no build target found for /Users/samiaishaque/hello-world-cats-gitr8/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Mar. 24, 2025 7:57:11 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
