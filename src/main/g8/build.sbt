@@ -7,7 +7,7 @@ ThisBuild / organizationName := "example"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "helloworldcats"
+    name := "$projectName$"
       libraryDependencies += munit % Test,
     version := "0.1",
     scalaVersion := "3.3.1", // Latest stable Scala 3 version
